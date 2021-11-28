@@ -1,9 +1,10 @@
 # short_stock_prediction
 
-- Python model to analyze and predict value of stocks in the short term and rudimental deployment on server
+#### simple and rudimental Python model to analyze and predict value of stocks in the short term and basic deployment on local server
 
-- This project has to be intended as made by a beginner, the scope was trying to update a more complex repository on my GitHub profile
-
-- On the other hand, I have tried to optimize a short and simple model in order to forecast stock values in the near future to have a vision of the possible market trends and generate useful insights
-
-- Suggestions and opinions are always appreciated
+These are the steps implemented in the code:
+- using data reader API to extract stocks
+- plotting and SARIMA model in training set
+- statistical analysis
+- supervised forecasting in test set
+- short time forecasting
