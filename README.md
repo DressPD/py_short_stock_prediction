@@ -1,4 +1,4 @@
-# short_stock_prediction
+# py_short_stock_prediction
 
 #### simple and rudimental Python model to analyze and predict value of stocks in the short term and basic deployment on local server
 
